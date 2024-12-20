@@ -1,3 +1,7 @@
+"""
+Este módulo contiene las pruebas unitarias para el código principal.
+"""
+
 import unittest
 import transform
 

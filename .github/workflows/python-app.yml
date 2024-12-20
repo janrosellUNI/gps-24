@@ -39,5 +39,5 @@ jobs:
           pip install coverage pytest
       - name: Run tests with pytest and coverage
         run: |
-          coverage run -m pytest
+          coverage run -m pytest test.py
           coverage report
